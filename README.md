@@ -1,2 +1,2 @@
 # HW1_Alekseev
-HW1_Regression_with_inference
+![Alt Text](https://recordit.co/6G3dd9887A.gif)
